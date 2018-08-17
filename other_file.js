@@ -1,1 +1,1 @@
-console.log(nodejs other_file.js)
+console.log(name)
